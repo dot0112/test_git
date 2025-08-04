@@ -4,6 +4,8 @@ public class Main {
         System.out.println("This is a test of how Git works");
         System.out.println("--- After create branch 1 ---");
         System.out.println("--- After create branch 2 ---");
+        System.out.println("--- Create branch 3 ---");
         System.out.println("--- Create branch 4 ---");
+        System.out.println("--- After create branch 3, 4 ---");
     }
 }
